@@ -11,7 +11,7 @@ I was tired of my Git repositories sometimes misbehaving and having to remember 
 Install it globally using:
 
 ```bash
-npm install -g git-trauma
+npm i -g git-trauma
 ```
 
 Navigate to your Git project and run the following inside of it:

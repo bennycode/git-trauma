@@ -5,6 +5,10 @@
   "bugs": {
     "url": "https://github.com/bennycode/git-trauma/issues"
   },
+  "dependencies": {
+    "@inquirer/prompts": "^5.0.5",
+    "simple-git": "^3.25.0"
+  },
   "description": "Automatically fixes common Git problems.",
   "devDependencies": {
     "@evilmartians/lefthook": "^1.6.16",
@@ -66,9 +70,5 @@
     "test:unit:coverage": "npm run test:unit -- --coverage.enabled"
   },
   "type": "module",
-  "version": "0.0.1",
-  "dependencies": {
-    "@inquirer/prompts": "^5.0.5",
-    "simple-git": "^3.25.0"
-  }
+  "version": "0.0.2"
 }

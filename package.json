@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "@inquirer/prompts": "^5.0.5",
+    "rimraf": "^5.0.7",
     "simple-git": "^3.25.0"
   },
   "description": "Automatically fixes common Git problems.",
@@ -20,7 +21,6 @@
     "eslint": "^8.57.0",
     "generate-changelog": "^1.8.0",
     "prettier": "^3.3.2",
-    "rimraf": "^5.0.7",
     "tsimp": "^2.0.11",
     "typedoc": "^0.25.13",
     "typescript": "^5.4.5",

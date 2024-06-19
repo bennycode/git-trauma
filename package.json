@@ -1,6 +1,6 @@
 {
   "bin": {
-    "git-trauma": "dist/cli.js"
+    "git-trauma": "dist/src/cli.js"
   },
   "bugs": {
     "url": "https://github.com/bennycode/git-trauma/issues"
@@ -35,7 +35,7 @@
     "git"
   ],
   "license": "UNLICENSED",
-  "main": "dist/index.js",
+  "main": "dist/src/index.js",
   "name": "git-trauma",
   "private": false,
   "repository": {

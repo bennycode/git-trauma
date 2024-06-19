@@ -2,6 +2,8 @@
 
 The `git-trauma` wizard is a little tool to fix common Git problems. Simply run it in your Git repositories and let it guide you through fixing popular Git issues. Easily squash commits or fix "fatal loose object" errors.
 
+![Screenshot of git-trauma](https://github.com/bennycode/git-trauma/raw/main/screenshot.png 'Screenshot')
+
 ## Motivation
 
 I was tired of my Git repositories sometimes misbehaving and having to remember all the complex Git commands to handle these situations. Let's be honest, who memorizes `git reset $(git commit-tree HEAD^{tree} -m "Reset")`? I had these commands scribbled in a notebook but I thought it would be much cooler to have a small tool that executes them directly in my Git repositories. So, I created "git-trauma" to save me from all the traumas I've had using Git in my projects.

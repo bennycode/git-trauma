@@ -12,7 +12,7 @@
   },
   "description": "Automatically fixes common Git problems.",
   "devDependencies": {
-    "@evilmartians/lefthook": "^1.6.16",
+    "@evilmartians/lefthook": "^2.0.2",
     "@tstv/eslint-config": "^4.0.0",
     "@tstv/tsconfig-common": "^3.5.0",
     "@types/node": "^24.0.8",
